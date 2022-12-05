@@ -1,2 +1,2 @@
 # Lending_Club_Case_Study
-This is for Analysis on loan data to identify pattern of defaulters
+This is for Analysis on loan data to identify pattern of defaulters and provide recommendations to avoid that.
